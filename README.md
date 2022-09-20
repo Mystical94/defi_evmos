@@ -1,5 +1,7 @@
 # defi_evmos
 
+<img src="frontend/src/assets/landing_page.png" alt="Logo">
+
 A collection of three DEFI contracts, namely Staking, Lending Pool, and Vault, which are required as the first step in developing a DEFI protocol.
 
 ## Lending Pool Contract
