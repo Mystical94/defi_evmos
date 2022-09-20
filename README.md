@@ -1,4 +1,4 @@
-# defi_evmos
+# DeFi for Evmos Ecosystem
 
 <img src="frontend/src/assets/landing_page.png" alt="Logo">
 
